@@ -20,7 +20,7 @@ This report on HR data is generated using Power BI, a data analysis tool. It fac
 ![Research and Development Data Images](https://github.com/adhishbiju2000/HR-Analytics-Report-Power-Bi/assets/156699315/f5155082-e44d-4fc6-b3d0-4a9d3a8a2fd1)
 
 
-## Sales Data image Data on Power Bi
+## Sales Data image on Power Bi
 
 
 ![Sales Data image](https://github.com/adhishbiju2000/HR-Analytics-Report-Power-Bi/assets/156699315/20e6f6fe-f584-498b-af94-27a4e8506bcd)
